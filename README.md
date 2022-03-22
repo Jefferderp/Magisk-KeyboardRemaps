@@ -2,6 +2,7 @@ This is a simple Magisk module for Android which injects a custom keyboard mappi
 
 I don't recommend you use this as-is - though you're welcome to adapt it.
 
+
 My thanks to the following resources:
 
 * http://gustavepate.github.io/blog/20130714/android-keyboard-layout-logitech-tablet-keyboard/
