@@ -74,11 +74,14 @@ key 51    COMMA
 key 52    PERIOD
 key 53    SLASH
 key 54    SHIFT_RIGHT
-key 55    NUMPAD_MULTIPLY
+### Jefferderp modified - originally NUMPAD_MULTIPLY
+key 55    POWER
+### End of modification
 key 56    ALT_LEFT
 key 57    SPACE
-# Jefferderp modified
-key 58    POWER
+### Jefferderp modified - originally CAPS_LOCK
+#key 58    POWER
+### End of modification
 key 59    F1
 key 60    F2
 key 61    F3
