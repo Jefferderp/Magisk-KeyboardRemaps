@@ -1,9 +1,0 @@
-type OVERLAY
-
-map key 58  POWER
-
-key TAB {
-    label:                              '\t'
-    base:                               '\t'
-    ctrl:                               fallback APP_SWITCH
-}
