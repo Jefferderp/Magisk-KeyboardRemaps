@@ -1,7 +1,7 @@
 id=jefferderp.keyboardremaps
 name=Jefferderp's custom keyboard remaps
 version=v1.0
-versionCode=1
+versionCode=10
 author=Jefferderp
 description=Jefferderp's custom keyboard remaps
 updateJson=https://raw.githubusercontent.com/Jefferderp/Magisk-KeyboardRemaps/master/update.json
