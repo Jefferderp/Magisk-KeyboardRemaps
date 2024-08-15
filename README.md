@@ -1,5 +1,5 @@
 # What?
-A simple Magisk module for Android which remaps physical hardware keys to any of Android's [virtual software keycodes]([https://source.android.com/devices/input/key-character-map-files). For example, remapping your physical *CAPS_LOCK* key to *KEYCODE_POWER* (power button).
+A simple Magisk module for Android which remaps physical hardware keys to any of Android's [virtual software keycodes](https://source.android.com/devices/input/key-character-map-files). For example, remapping your physical *CAPS_LOCK* key to *KEYCODE_POWER* (power button).
 
 By default in release `v1.0`, the following keys are remapped:
 * CAPS_LOCK --> KEYCODE_POWER
