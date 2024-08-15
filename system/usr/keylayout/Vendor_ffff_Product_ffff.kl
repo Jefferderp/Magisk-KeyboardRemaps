@@ -80,7 +80,7 @@ key 55    POWER
 key 56    ALT_LEFT
 key 57    SPACE
 ### Jefferderp modified - originally CAPS_LOCK
-#key 58    POWER
+key 58    POWER
 ### End of modification
 key 59    F1
 key 60    F2
