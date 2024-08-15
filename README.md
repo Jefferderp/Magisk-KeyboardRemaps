@@ -29,3 +29,7 @@ Thanks to the following resources which helped me put this together:
 * https://source.android.com/devices/input/key-character-map-files
 * https://forum.xda-developers.com/t/how-to-remap-mouse-buttons-and-is-possible-to-make-kl-and-kcm-files-for-it.3190940/
 * https://topjohnwu.github.io/Magisk/guides.html
+
+---
+
+*Initial commit was 2022/03/22. Commit dates were squashed after performing a rebase.*
