@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
-versionCode=10
-author=Zackptg5
+id=jefferderp.keyboardremaps
+name=Jefferderp's custom keyboard remaps
+version=1
+versionCode=1
+author=Jefferderp
 description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+updateJson=https://raw.githubusercontent.com/Jefferderp/Magisk-KeyboardRemaps/master/update.json
